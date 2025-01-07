@@ -1,4 +1,4 @@
-## 🌟Salam There I am Muhammad Saad!**
+## 🌟Salam There I am Muhammad Saad!
 
 # 🚀 Cloud & DevOps Engineer | Certified Architect 
 
@@ -19,7 +19,7 @@
 </p> 
 
 ### Cloud  
-- **AWS**, **Google Cloud Platform (GCP)**  
+- **AWS**, **Google Cloud Platform (GCP)** , **Oracle Cloud Infrastructure (OCI)** 
 
 ### Containerization & Orchestration  
 - **Docker**, **Kubernetes**  
@@ -64,15 +64,15 @@
 
 [![Oracle Associate Architect Certified](https://img.shields.io/badge/Oracle%20Associate%20Architect-Certified-red?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com)  
 [![Oracle Cloud Foundation Associate](https://img.shields.io/badge/Oracle%20Cloud%20Foundation-Associate-red?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com)  
-[![Presidential Initiative AI and Cloud Native](https://img.shields.io/badge/Presidential%20Initiative%20on%20AI%20and%20Cloud%20Native-green?style=for-the-badge&logo=government&logoColor=white)](https://piaic.org)  
-
+[![PIAIC](https://img.shields.io/badge/PIAIC-Program-green?style=for-the-badge&logo=government&logoColor=white)](https://piaic.org)  
+[![Certified](https://img.shields.io/badge/Certified-blue?style=for-the-badge&logo=government&logoColor=white)](https://piaic.org)
 
 ---
 
 ## 🌍 Work Experience  
 
-### **DevOps Engineer** at **PostEx**  
-**Regions:** Saudi Arabia, UAE, Pakistan  
+# **DevOps Engineer** at **PostEx**  
+### Regions: **Saudi Arabia**, **UAE**, **Pakistan**  
 
 - Designed and implemented cloud solutions using **AWS** , **GCP** and **OCI**.  
 - Deployed and managed **Kubernetes** clusters and containerized applications with **Docker**.  
