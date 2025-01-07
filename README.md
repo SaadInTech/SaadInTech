@@ -63,7 +63,7 @@
 ## 🏆 Badges  
 
 [![Oracle Associate Architect Certified](https://img.shields.io/badge/Oracle%20Associate%20Architect-Certified-red?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com)  
-[![Oracle Cloud Foundation Associate](https://img.shields.io/badge/Oracle%20Cloud%20Foundation-Associate-red?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com)  
+[![Oracle Cloud Foundation Associate](https://img.shields.io/badge/Oracle%20Cloud%20Foundation-Associate-blue?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com)  
 [![PIAIC Certified](https://img.shields.io/badge/PIAIC-Certified-green?style=for-the-badge&logo=government&logoColor=white)](https://piaic.org)
 
 ---
