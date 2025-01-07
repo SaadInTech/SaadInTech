@@ -1,21 +1,22 @@
-**🌟Salam There I am Muhammad Saad!**
+## 🌟Salam There I am Muhammad Saad!**
 
-# 🚀 Cloud & DevOps Engineer | CI/CD Specialist 
+# 🚀 Cloud & DevOps Engineer | Certified Architect 
 
 ---
 
 ## 👨‍💻 About Me  
-I am a passionate **DevOps Engineer** with over **5 years of experience** in implementing, managing, and optimizing CI/CD pipelines, infrastructure automation, and cloud-native solutions. Skilled in containerization, monitoring, and scaling applications using tools like **AWS, Kubernetes, Docker, and Jenkins CI/CD**. Adept at fostering collaboration across teams and ensuring system reliability through best practices.  
+**DevOps Engineer** with over **5 years of experience** in implementing, managing, and optimizing CI/CD pipelines, infrastructure automation, and cloud-native solutions. Skilled in containerization, monitoring, and scaling applications using tools like **AWS, GCP, OCI, Kubernetes, Docker, and Jenkins CI/CD**. Adept at fostering collaboration across teams and ensuring system reliability through best practices.  
 
 ---
 
 ## 🛠 Tech Stack  
 
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)  
-[![Google Cloud GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)  
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)  
-[![Jenkins CI/CD](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)  
+<p align="center">
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/Amazon%20AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-lightblue?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="https://www.jenkins.io" target="_blank"><img src="https://img.shields.io/badge/Jenkins-gray?style=for-the-badge&logo=jenkins&logoColor=white"></a>
+</p> 
 
 ### Cloud  
 - **AWS**, **Google Cloud Platform (GCP)**  
@@ -38,6 +39,8 @@ I am a passionate **DevOps Engineer** with over **5 years of experience** in imp
 ### Version Control  
 - **Git**, **GitHub**, **GitLab**  
 
+### Collaboration Tools  
+- **Slack**, **Google Chat**, **Google Calendar**, **Pumble**, **Jira**, **Bitbucket** 
 ---
 
 ## 🌱 I’m currently learning  
@@ -59,7 +62,10 @@ I am a passionate **DevOps Engineer** with over **5 years of experience** in imp
 
 ## 🏆 Badges  
 
-[![Oracle Certified Architect](https://img.shields.io/badge/Oracle%20Certified-Architect-red?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com)  
+[![Oracle Associate Architect Certified](https://img.shields.io/badge/Oracle%20Associate%20Architect-Certified-red?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com)  
+[![Oracle Cloud Foundation Associate](https://img.shields.io/badge/Oracle%20Cloud%20Foundation-Associate-red?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com)  
+[![Presidential Initiative AI and Cloud Native](https://img.shields.io/badge/Presidential%20Initiative%20on%20AI%20and%20Cloud%20Native-green?style=for-the-badge&logo=government&logoColor=white)](https://piaic.org)  
+
 
 ---
 
@@ -68,8 +74,8 @@ I am a passionate **DevOps Engineer** with over **5 years of experience** in imp
 ### **DevOps Engineer** at **PostEx**  
 **Regions:** Saudi Arabia, UAE, Pakistan  
 
-- Designed and implemented cloud solutions using **AWS** (EC2, RDS, S3, EKS, etc.) and **OCI**.  
-- Deployed and managed Kubernetes clusters and containerized applications with **Docker**.  
+- Designed and implemented cloud solutions using **AWS** , **GCP** and **OCI**.  
+- Deployed and managed **Kubernetes** clusters and containerized applications with **Docker**.  
 - Automated CI/CD pipelines using **Jenkins** and **GitHub Actions**.  
 - Enhanced system observability using **Grafana, ELK Stack**, and **Prometheus**.  
 - Worked on multi-region projects, ensuring compliance and performance across Saudi Arabia, UAE, and Pakistan.  
