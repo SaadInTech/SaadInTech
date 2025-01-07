@@ -1,107 +1,81 @@
-# 🌟 Muhammad Saad Amin  
+**🌟Salam There I am Muhammad Saad!**
 
-**🚀 DevOps Engineer | Cloud Enthusiast | CI/CD Specialist**  
-📍 **Lahore, Pakistan**  
-📧 **[saadi.amin.123@gmail.com](mailto:saadi.amin.123@gmail.com)**  
-🔗 **[LinkedIn Profile](https://www.linkedin.com/in/msaadamin1/)**  
+# 🚀 Cloud & DevOps Engineer | CI/CD Specialist 
 
 ---
 
 ## 👨‍💻 About Me  
-
-Welcome to my portfolio! I am a passionate **DevOps Engineer** with 3+ years of hands-on experience in building scalable, secure, and reliable cloud infrastructures. My journey revolves around optimizing workflows, automating processes, and enabling development teams to ship faster and more confidently.  
-
-**Key Highlights:**  
-- Mastering cloud platforms like **AWS**, **GCP**, and **OCI** to unlock high-performance infrastructure.  
-- Building resilient **CI/CD pipelines** with tools like **Jenkins** and **GitHub Actions**.  
-- Excelling in **containerization** and **orchestration** with **Kubernetes** and **Docker**.  
-
-Let’s collaborate and create solutions that push the boundaries of innovation!  
+I am a passionate **DevOps Engineer** with over **5 years of experience** in implementing, managing, and optimizing CI/CD pipelines, infrastructure automation, and cloud-native solutions. Skilled in containerization, monitoring, and scaling applications using tools like **AWS, Kubernetes, Docker, and Jenkins CI/CD**. Adept at fostering collaboration across teams and ensuring system reliability through best practices.  
 
 ---
 
-## 🛠️ Technical Arsenal  
+## 🛠 Tech Stack  
 
-### **Cloud Platforms**  
-☁️ **AWS**: EKS, EC2, RDS, S3, CloudWatch, ELB  
-☁️ **GCP**: CloudSQL, Google Kubernetes Engine (GKE)  
-☁️ **OCI**: OKE, Heatwave Database, OCI Bastion  
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)  
+[![Google Cloud GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)  
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)  
+[![Jenkins CI/CD](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)  
 
-### **CI/CD & Automation**  
-⚙️ Jenkins, GitHub Actions, UiPath  
+### Cloud  
+- **AWS**, **Google Cloud Platform (GCP)**  
 
-### **Containerization & Orchestration**  
-🚢 Kubernetes (Rancher, Helm charts), Docker  
+### Containerization & Orchestration  
+- **Docker**, **Kubernetes**  
 
-### **Monitoring & Logging**  
-📊 Grafana, Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana), Loki  
+### CI/CD  
+- **Jenkins**, **GitHub Actions**, **GitLab CI/CD**  
 
-### **Other Tools & Skills**  
-- 🖧 **Web Servers**: Nginx, Apache2  
-- 💻 **Scripting**: Bash  
-- 🔄 **Version Control**: Git (Bitbucket, GitHub)  
-- 📦 **Artifact Registry**: Harbor  
+### Monitoring & Logging  
+- **Grafana**, **ELK Stack (Elasticsearch, Logstash, Kibana)**, **Prometheus**  
 
----
+### Code Quality & Security  
+- **SonarQube**
 
-## 💼 Professional Experience  
+### Programming   
+- **Bash**
 
-### **PostEx** – Lahore, Pakistan  
-**DevOps Engineer** *(2021 - Present)*  
-
-- 🛠️ **Designed & Scaled Cloud Infrastructure**: Leveraged **AWS**, **OCI**, and **GCP** to create high-performing systems.  
-- 🚀 **Kubernetes Expert**: Deployed and managed clusters using **Rancher**, **Helm charts**, and **Metallb**.  
-- ⚙️ **CI/CD Guru**: Automated deployment pipelines with **Jenkins** & **GitHub Actions**, boosting productivity.  
-- 🖥️ **Monitoring Champion**: Built insightful dashboards with **Grafana**, **Prometheus**, and **ELK Stack** for proactive system health checks.  
-- 🗄️ **Database Administration**: Configured **MySQL** and **PostgreSQL** with Master-Slave replication for high availability.  
-
-#### 🌍 **Diverse Multi-Region Projects**  
-- **PostEx OMS – Riyadh, Saudi Arabia**  
-   - Deployed **OCI Heatwave Database** and managed the system with **OCI Kubernetes (OKE)**.  
-   - Ensured secure access with **OCI Bastion Hosts**.  
-- **PostEx OMS – Dubai, UAE**  
-   - Optimized configurations for compliance with local performance standards.  
+### Version Control  
+- **Git**, **GitHub**, **GitLab**  
 
 ---
 
-## 🎓 Education  
-
-🎓 **Bachelor’s in Computer Engineering**  
-*The University of Lahore, Pakistan (2017 - 2022)*  
-
----
-
-## 🎖️ Certifications  
-
-🏅 **Oracle Associate Architect** – Oracle Cloud Infrastructure (ID: 100341775OCI2023CAA)  
-🏅 **Oracle Foundation Associate** – Oracle Cloud Infrastructure (ID: 304324677OCIF2023CA)  
-🏅 **Cloud Computing and Mobile Native** – President Initiative Artificial Intelligence and Cloud Computing (2020)  
+## 🌱 I’m currently learning  
+- **Terraform** (Infrastructure as Code)  
+- **Java**  
 
 ---
 
-## 🎮 Choose Your Interest  
+## 🏅 Certifications  
 
-Click on a button to explore my work related to:  
-
-[![Jenkins](https://img.shields.io/badge/Jenkins-Automation-blue?style=for-the-badge&logo=jenkins&logoColor=white)](https://#)  
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-orange?style=for-the-badge&logo=kubernetes&logoColor=white)](https://#)  
-[![Docker](https://img.shields.io/badge/Docker-Containerization-teal?style=for-the-badge&logo=docker&logoColor=white)](https://#)  
-
----
-
-## 📈 GitHub Portfolio Highlights  
-
-### **CI/CD Pipelines**  
-- Implemented robust pipelines for automation of build, test, and deployment processes.  
-
-### **Kubernetes Deployments**  
-- Deployed scalable applications using **Helm charts** and **Horizontal Pod Autoscaling (HPA)**.  
-
-### **Monitoring & Observability**  
-- Built comprehensive monitoring dashboards using **Grafana** and integrated alert systems.  
+- **Oracle Associate Architect (OCI)**  
+  *ID: 100341775OCI2023CAA*  
+- **Oracle Foundation Associate (OCI)**  
+  *ID: 304324677OCIF2023CA*  
+- **Cloud Computing and Mobile Native**  
+  *ID: PIAIC147809*  
 
 ---
 
-## 🌐 Let's Connect  
+## 🏆 Badges  
 
-Feel free to reach out via email or connect with me on LinkedIn to discuss projects, collaborations, or opportunities!
+[![Oracle Certified Architect](https://img.shields.io/badge/Oracle%20Certified-Architect-red?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com)  
+
+---
+
+## 🌍 Work Experience  
+
+### **DevOps Engineer** at **PostEx**  
+**Regions:** Saudi Arabia, UAE, Pakistan  
+
+- Designed and implemented cloud solutions using **AWS** (EC2, RDS, S3, EKS, etc.) and **OCI**.  
+- Deployed and managed Kubernetes clusters and containerized applications with **Docker**.  
+- Automated CI/CD pipelines using **Jenkins** and **GitHub Actions**.  
+- Enhanced system observability using **Grafana, ELK Stack**, and **Prometheus**.  
+- Worked on multi-region projects, ensuring compliance and performance across Saudi Arabia, UAE, and Pakistan.  
+
+---
+
+Feel free to connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msaadamin1/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaadInTech/)
